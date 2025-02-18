@@ -1,0 +1,1 @@
+This repository contains a didactical implementation of the RTL of a CNN to solve the MNIST classification task on FPGAs.
